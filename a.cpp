@@ -1,3 +1,5 @@
 #include
 
-main
+void main()
+{
+}
